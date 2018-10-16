@@ -1,0 +1,51 @@
+.jumbotron {
+	background-color: #428bca
+}
+
+.jumbotron h1 {
+	color:green;
+}
+
+.styledFont{
+	color:green;
+}
+.greenFont{
+	color:green;
+}
+.redFont{
+	color:red;
+}
+.blueFont{
+	color:blueS
+}
+.boldFont{
+	font-weight: bold;
+}
+.bigFont{
+	font-size: 30px;
+}
+.tinyFont{
+	font-size: 6px;
+}
+.centerText{
+	text-align: center;
+}
+img { 
+	border:1px solid #021a40;
+ }
+
+p, h1, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+#funText {
+	color: black;
+	font-size: 24px;
+	font-family: 'Roboto Slab', serif;
+}
+
+#box {
+	height: 100px;
+	width: 100px;
+	margin:auto;
+}
